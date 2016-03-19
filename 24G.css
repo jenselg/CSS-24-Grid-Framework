@@ -1,0 +1,35 @@
+/* Tested at 1280x1024; Playing around with floats to make grids */
+
+* {
+  border: 1px solid #73AD21;
+}
+
+.b-md-1 {
+  float: left;
+  width: 4%;
+  word-wrap: break-word;
+}
+
+.b-md-24 {
+  float: left;
+  width: 99.6%;
+  word-wrap: break-word;
+}
+
+.b-md-12 {
+  float: left;
+  width: 49.74%;
+  word-wrap: break-word;
+}
+
+.b-md-6 {
+  float: left;
+  width: 24.78%;
+  word-wrap: break-word;
+}
+
+.b-md-3 {
+  float: left;
+  width: 12.31%;
+  word-wrap: break-word;
+}
